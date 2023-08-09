@@ -3,4 +3,4 @@
 </p>
 
 <br>
-<p>Template has been created by [Kedasha at ThatLadyDev]([url](https://github.com/That-Lady-Dev)https://github.com/That-Lady-Dev) to help the community to work together to learn Ruby and meet other likeminded users</p>
+<p>Template has been created by [Kedasha at ThatLadyDev][https://github.com/That-Lady-Dev] to help the community to work together to learn Ruby and meet other like minded users</p>
